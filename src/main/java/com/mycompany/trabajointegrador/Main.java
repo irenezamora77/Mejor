@@ -12,5 +12,5 @@ package com.mycompany.trabajointegrador;
 public class Main {
     
     //WIIIIIIIIIIIIIIIIIIIIIIIIIIII
-       
+    //x2
 }
